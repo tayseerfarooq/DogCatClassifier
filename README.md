@@ -171,9 +171,6 @@ Feel free to contribute to this project by:
 2. Creating a feature branch
 3. Submitting a pull request
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Claude (Anthropic) for project ideation
 - ChatGPT for coding assistance
