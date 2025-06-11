@@ -1,7 +1,7 @@
-# DogCatClassifier - iOS App
+# DogCatClassifier - iOS App 
 
 ## Project Overview
-DogCatClassifier is an iOS application that uses machine learning to classify images as either dogs or cats. The app features a modern SwiftUI interface, camera integration, and real-time image classification using Core ML and Vision frameworks.
+DogCatClassifier is an iOS application that uses machine learning to classify images as either dogs or cats. The app features a modern SwiftUI interface, camera integration, and real-time image classification using Core ML and Vision frameworks. Not to forget, this is complete vibe coding with lots of learning.
 
 ## Development Journey
 
