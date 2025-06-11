@@ -132,18 +132,6 @@ The app follows a clean architecture pattern with:
    - Clean build folder
    - Build and run on target device
 
-## Project Structure
-DogCatClassifier/
-├── DogCatClassifier/
-│   ├── ContentView.swift
-│   ├── ImageClassifier.swift
-│   ├── CameraView.swift
-│   └── Info.plist
-├── Models/
-│   └── MobileNetV2.mlmodel
-└── DogCatClassifier.xcodeproj/
-
-
 ## Screenshots
 
 ![IMG_3168](https://github.com/user-attachments/assets/1b89a707-1f25-444e-97e5-79c3d8b8feca)
