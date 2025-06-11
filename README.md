@@ -143,6 +143,10 @@ DogCatClassifier/
 │ └── MobileNetV2.mlmodel
 └── DogCatClassifier.xcodeproj/
 
+## Screenshots
+
+![IMG_3168](https://github.com/user-attachments/assets/1b89a707-1f25-444e-97e5-79c3d8b8feca)
+
 
 
 ## Development Log
