@@ -132,7 +132,16 @@ The app follows a clean architecture pattern with:
    - Clean build folder
    - Build and run on target device
 
-<pre> ## Project Structure ``` DogCatClassifier/ ├── DogCatClassifier/ │ ├── ContentView.swift │ ├── ImageClassifier.swift │ ├── CameraView.swift │ └── Info.plist ├── Models/ │ └── MobileNetV2.mlmodel └── DogCatClassifier.xcodeproj/ ``` </pre>
+## Project Structure
+DogCatClassifier/
+├── DogCatClassifier/
+│   ├── ContentView.swift
+│   ├── ImageClassifier.swift
+│   ├── CameraView.swift
+│   └── Info.plist
+├── Models/
+│   └── MobileNetV2.mlmodel
+└── DogCatClassifier.xcodeproj/
 
 
 ## Screenshots
